@@ -21,7 +21,7 @@ OpenClaw runs the `resume` CLI in your project directory, generates a plain-Engl
 
 ## Demo
 
-![Demo](https://github.com/nickleodoen/resume-context/raw/main/demo.png)
+![Demo](https://hel1.your-objectstorage.com/hackersquadcontent/project-recordings/project_rec_cmn6lg9oc0105nv0khkmgjd7e-2026-03-25T230229.mp4)
 
 You: "Claw give me a briefing on resume"
 Resume Project Briefing:
