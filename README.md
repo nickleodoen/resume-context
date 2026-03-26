@@ -33,7 +33,11 @@ and what to do next — sourced directly from your local session data, not a mem
 
 ## Demo
 
-[![Demo Video](https://img.shields.io/badge/Demo-YouTube-red)](https://youtu.be/xxi6S1U4BA0)
+<div align="center">
+
+[![Watch the demo](https://img.youtube.com/vi/xxi6S1U4BA0/maxresdefault.jpg)](https://youtu.be/xxi6S1U4BA0)
+
+</div>
 
 **Session briefing** — `"Claw give me a briefing on resume"`
 
