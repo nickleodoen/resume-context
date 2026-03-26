@@ -1,14 +1,23 @@
 <div align="center">
-  <img src="resy.png" alt="Resy the jellyfish" width="120" />
 
-  # resume-context
+  <a href="https://github.com/openclaw/openclaw">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg">
+      <img alt="OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" width="320" />
+    </picture>
+  </a>
 
-  **Ask OpenClaw about your coding sessions and project notes**
+  <br/><br/>
+  <img src="resy.png" alt="Resy" width="90" />
 
-  Powered by [resume](https://github.com/nickleodoen/resume) · Cached by Redis
+  <h1>resume-context</h1>
 
-  [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-red)](https://clawhub.com)
-  [![Redis](https://img.shields.io/badge/Redis-Cached-DC382D)](https://redis.io)
+  <p><strong>Never lose context between coding sessions</strong></p>
+  <p>Ask OpenClaw about any project in plain English · Powered by <a href="https://github.com/nickleodoen/resume">resume</a> + Redis</p>
+
+  [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-CC2929)](https://clawhub.com)
+  [![Redis](https://img.shields.io/badge/Redis-Cached-DC382D?logo=redis&logoColor=white)](https://redis.io)
+  [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white)](https://nodejs.org)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 </div>
@@ -156,14 +165,20 @@ returns structured JSON. If Redis is unreachable it degrades gracefully to live 
 
 ---
 
-## Built at
-
-OpenClaw Agent Toolkit Hack Day · March 25, 2026 · San Francisco
-
-Sponsors: **Redis** · OpenAI Codex · HackerSquad
-
----
-
 ## License
 
 MIT
+
+---
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/openclaw/openclaw">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg">
+      <img alt="Built for OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" width="200" />
+    </picture>
+  </a>
+  <br/>
+  <sub>A skill for <a href="https://github.com/openclaw/openclaw">OpenClaw</a> · Built at the OpenClaw Agent Toolkit Hack Day · March 25, 2026 · San Francisco<br/>Sponsors: <strong>Redis</strong> · OpenAI Codex · HackerSquad</sub>
+</div>
