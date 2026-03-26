@@ -14,6 +14,7 @@ Ask OpenClaw about any project in plain English · Powered by [resume](https://g
 [![Redis](https://img.shields.io/badge/Redis-Cached-DC382D?logo=redis&logoColor=white)](https://redis.io)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white)](https://nodejs.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Demo Video](https://img.shields.io/badge/Demo-YouTube-red)](https://youtu.be/xxi6S1U4BA0)
 
 </div>
 
