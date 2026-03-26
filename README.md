@@ -1,28 +1,14 @@
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="right" valign="middle" width="110">
-      <a href="https://github.com/nickleodoen/resume">
-        <img src="resy.png" alt="Resy" width="90" />
-      </a>
-    </td>
-    <td align="left" valign="middle" width="20">&nbsp;</td>
-    <td align="left" valign="middle">
-      <a href="https://github.com/openclaw/openclaw">
-        <picture>
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg">
-          <img alt="OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" width="300" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/nickleodoen/resume"><img src="resy.png" alt="Resy" width="72" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/openclaw/openclaw"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg"><img alt="OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" width="280" /></picture></a>
 
-<h1>resume-context</h1>
+<br/><br/>
 
-<p><strong>Never lose context between coding sessions</strong></p>
-<p>Ask OpenClaw about any project in plain English · Powered by <a href="https://github.com/nickleodoen/resume">resume</a> + Redis</p>
+# resume-context
+
+**Never lose context between coding sessions**
+
+Ask OpenClaw about any project in plain English · Powered by [resume](https://github.com/nickleodoen/resume) + Redis
 
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-CC2929)](https://clawhub.com)
 [![Redis](https://img.shields.io/badge/Redis-Cached-DC382D?logo=redis&logoColor=white)](https://redis.io)
@@ -185,25 +171,9 @@ MIT
 ---
 
 <div align="center">
-  <br/>
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="right" valign="middle" width="70">
-        <a href="https://github.com/nickleodoen/resume">
-          <img src="resy.png" alt="Resy" width="52" />
-        </a>
-      </td>
-      <td align="left" valign="middle" width="16">&nbsp;</td>
-      <td align="left" valign="middle">
-        <a href="https://github.com/openclaw/openclaw">
-          <picture>
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg">
-            <img alt="Built for OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" width="180" />
-          </picture>
-        </a>
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <sub>A skill for <a href="https://github.com/openclaw/openclaw">OpenClaw</a> · Built at the OpenClaw Agent Toolkit Hack Day · March 25, 2026 · San Francisco<br/>Sponsors: <strong>Redis</strong> · OpenAI Codex · HackerSquad</sub>
+
+<a href="https://github.com/nickleodoen/resume"><img src="resy.png" alt="Resy" width="44" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/openclaw/openclaw"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg"><img alt="Built for OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" width="160" /></picture></a>
+
+<sub>A skill for <a href="https://github.com/openclaw/openclaw">OpenClaw</a> · Built at the OpenClaw Agent Toolkit Hack Day · March 25, 2026 · San Francisco<br/>Sponsors: <strong>Redis</strong> · OpenAI Codex · HackerSquad</sub>
+
 </div>
