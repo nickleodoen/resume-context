@@ -35,7 +35,7 @@ and what to do next — sourced directly from your local session data, not a mem
 
 <div align="center">
 
-[![Watch the demo](https://img.youtube.com/vi/xxi6S1U4BA0/maxresdefault.jpg)](https://youtu.be/xxi6S1U4BA0)
+[![Watch Demo on YouTube](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/xxi6S1U4BA0)
 
 </div>
 
