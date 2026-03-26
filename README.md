@@ -28,28 +28,32 @@ and what to do next — sourced directly from your local session data, not a mem
 
 ## How it works
 
-You  ──────────────────────────────────────────────────────────────────►  OpenClaw
-"Claw give me a briefing on resume"
-OpenClaw  ────────────────────────────────────────────────────────────►  resume-context skill
-skill triggered by message pattern
-resume-context  ──────────────────────────────────────────────────────►  Redis
-cache key: resume:show:/path/to/project
+```
+You
+ │  "Claw give me a briefing on resume"
+ ▼
+OpenClaw
+ │  skill triggered by message pattern
+ ▼
+resume-context
+ │  cache key: resume:show:/path/to/project
+ ▼
+Redis
+ ├── HIT  → return instantly (<100ms)
+ └── MISS → run `resume show`
+              │  calls Anthropic LLM (~12s)
+              └─ write to Redis, TTL 5 min
+ ▼
+OpenClaw
+ │  "Resume Project Briefing:
+ │   You're updating docs to showcase the TUI dashboard.
+ │   Progress: Updated README, replaced VSCode screenshot.
+ │   Next: Verify ClawHub integration end-to-end."
+ ▼
+You
+```
 
-┌─────────────────────────────────────────────┐
-             │  Cache HIT  →  return instantly (<100ms)    │
-             │  Cache MISS →  run resume show              │
-             │               (calls Anthropic LLM, ~12s)  │
-             │               write to Redis, TTL 5 min     │
-             └─────────────────────────────────────────────┘
-
-OpenClaw  ────────────────────────────────────────────────────────────►  You
-"Resume Project Briefing:
-You're updating docs to showcase the TUI dashboard.
-Progress: Updated README, replaced VSCode screenshot.
-Next: Verify ClawHub integration end-to-end."
-
-The first time you ask about a project — ~12 seconds (LLM call via `resume`).
-Every repeat question in the next 5 minutes — under 100ms (Redis cache hit).
+First request: ~12 seconds (LLM call via `resume`). Every repeat in the next 5 minutes: under 100ms (Redis cache hit).
 
 ---
 
