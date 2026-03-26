@@ -26,6 +26,18 @@ and what to do next — sourced directly from your local session data, not a mem
 
 ---
 
+## Demo
+
+**Session briefing** — `"Claw give me a briefing on resume"`
+
+![Session briefing demo](claw-resume-show.png)
+
+**Project notes** — `"Claw show me my notes for resume"`
+
+![Project notes demo](claw-resume-notes.png)
+
+---
+
 ## How it works
 
 ```
