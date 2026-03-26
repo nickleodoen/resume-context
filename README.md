@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/nickleodoen/resume"><img src="resy-plain.png" alt="Resy" width="130" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/openclaw/openclaw"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg"><img alt="OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" width="280" /></picture></a>
+<a href="https://github.com/nickleodoen/resume"><img src="resy-plain.png" alt="Resy" width="130" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/openclaw/openclaw"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg"><img alt="OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" width="420" /></picture></a>
 
 <br/><br/>
 
@@ -172,7 +172,7 @@ MIT
 
 <div align="center">
 
-<a href="https://github.com/nickleodoen/resume"><img src="resy-plain.png" alt="Resy" width="44" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/openclaw/openclaw"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg"><img alt="Built for OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" width="160" /></picture></a>
+<a href="https://github.com/nickleodoen/resume"><img src="resy-plain.png" alt="Resy" width="90" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/openclaw/openclaw"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg"><img alt="Built for OpenClaw" src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg" width="240" /></picture></a>
 
 <sub>A skill for <a href="https://github.com/openclaw/openclaw">OpenClaw</a> · Built at the OpenClaw Agent Toolkit Hack Day · March 25, 2026 · San Francisco<br/>Sponsors: <strong>Redis</strong> · OpenAI Codex · HackerSquad</sub>
 
